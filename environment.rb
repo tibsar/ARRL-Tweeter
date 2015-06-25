@@ -1,0 +1,5 @@
+require_relative 'scrape.rb'
+require_relative 'shorten-urls.rb'
+require_relative 'check-new.rb'
+require_relative 'check-length.rb'
+require_relative 'tweet.rb'
