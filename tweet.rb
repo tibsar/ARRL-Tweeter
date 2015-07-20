@@ -16,5 +16,6 @@ def tweet(tweets)
       @client.update(tweet)
     end
   end 
+  puts "#{tweets.length} tweets tweeted!"
 end 
 

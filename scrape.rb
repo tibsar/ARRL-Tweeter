@@ -16,4 +16,3 @@ def scrape
   return [titles, urls]
 end 
 
-scrape
